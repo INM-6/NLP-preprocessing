@@ -1,0 +1,17 @@
+ipykernel
+ipython
+jupyter
+jupyterlab
+matplotlib
+nltk
+numpy
+pandas
+prompt_toolkit
+PyYAML
+requests
+scikit-learn
+scipy
+seaborn
+tqdm
+urllib3
+wordcloud
